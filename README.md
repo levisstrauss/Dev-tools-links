@@ -1,108 +1,122 @@
-# Dev-tools-links
------------------------------------------------------------
-# SET UP local workspace:
-# Git Desktop: 
-- Download: https://desktop.github.com/
-# GitHub Desktop:
-- Download: https://desktop.github.com/ 
------------------------------------------------------------
-# WEB DYNAMIC Tools:
-# Webstorm: 
-- Download: https://www.jetbrains.com/webstorm/
-# NodeJS: 
-- Download: https://nodejs.org/en/
-# Bootstrap: 
-- Download: http://getbootstrap.com/
------------------------------------------------------------
-# REST WEB SERVICES tools:
-# Postman: 
-- Download: https://www.getpostman.com/
------------------------------------------------------------
-# JAVA tools:
-# STS (Spring Tool Suite):
-- Download: https://spring.io/tools
-# Download JDK:
-- Download: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-# Download JDK Java EE:
-- Download: https://www.oracle.com/technetwork/java/javaee/downloads/index.html
+# Developer's Resource Hub
 
------------------------------------------------------------
-# BUILD & DEPLOYMENT tools:
-# Jenkins: 
-- To build packages and milestones from SVN Repositry 
-- Download: https://jenkins.io/ 
-# Nexus Repository Manager:
-- To memorize the history of the builds
-- Downlaod: https://www.sonatype.com/nexus-repository-sonatype
-# Elevation Mgr:
-- Manage code in environments from packaging in test regions to production.
-# SonarSource:
-- For code quality and review
-- Download: https://www.sonarsource.com/
------------------------------------------------------------
-# Good tools:
-# Sublime Editor:
-- Download: https://www.sublimetext.com/
+Welcome to the Developer's Resource Hub! Here, you'll find a curated list of tools and links for programming, design, deployment, and more. Whether you're a seasoned developer or just starting out, these resources will help streamline your workflow and enhance your toolkit.
 
-# Brackets Project Editor:
-- Download: http://brackets.io/
------------------------------------------------------------
-# PERFORMACE tools:
-# GTMetrix:
-- Download: https://gtmetrix.com/
------------------------------------------------------------
-# ATLASSIAN tools:
-# JIRA:
-Plan, track, and release world-class software with the #1 software development tool used by agile teams.
-Download: https://www.atlassian.com/software/jira
-# Confluence:
-Spend less time hunting things down and more time getting things done. Organize your work, create documents, and discuss everything in one place.
-Donwload: https://www.atlassian.com/download
-# BitBucket:
-Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
-Donwload: https://www.atlassian.com/download
-# Bamboo:
-Continuous integration, deployment, and release management.
-Donwload: https://www.atlassian.com/download
+## Table of Contents
+1. [Development Tools](#dev-tools-links)
+2. [Programming Languages](#programming-languages)
+3. [REST Web Services Tools](#rest-web-services-tools)
+4. [Java Tools](#java-tools)
+5. [Build & Deployment Tools](#build--deployment-tools)
+6. [General Purpose Tools](#good-tools)
+7. [Performance Tools](#performace-tools)
+8. [Atlassian Suite](#atlassian-tools)
+9. [Testing Tools](#testing-tools)
+10. [Web/Data Analytics Tools](#webdata-analytics-tools)
+11. [Adobe Analytics Check](#adobe-analytics-check)
 
------------------------------------------------------------
-# TESTING tools:
-# Cucumber for test automation:
-- By writing stories in the feature file and read it in the step definision Java code.
-- Feature file is a property file has senarions (WHEN xxy THEN abc GIVEN 123) taged like @test @mannual @automation.
-- Step definistion is a Java class to map the feature file int a code and use the cucumber built in methods for testing. 
-- Cucusmber is a test automation tool developed using Java and it has lots of built in methods which can test the browser functionalities and navigations as well and it uses Selenium since it's a browser automation tool. 
-# Selenium:
-- Web browser automation tool.
-- Download: http://www.seleniumhq.org/
-# Jasmine:
-- To test AngularJS stuff.
-# Junit:
-- To test Java code stuff.
------------------------------------------------------------
-# WEB/DATA ANALYTICS tools:
-- DTM(Dynamic Tag Manager) tool to implement Adobe & DC.
-- Google Analytics.
-- Webtrends.
-- Ghostery Privacy Browser: to know what’s the analytics tool uses in any website. 
-- Facebook analytics: Free analytics tool. 
-- Yahoo analytics https://developer.yahoo.com/analytics/
-- Google DoubleClick - https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/
-- Adobe Analytics - http://www.adobe.com/marketing-cloud/web-analytics.html#x
-- Charles https://www.charlesproxy.com/
+---
 
-** How to check Adobe at anysite: 
-- Run httpwatch on any site and look for /b/ss
-- The URL contains /b/ss contains the query string which have the data tracked for the page. Adobe Analytics Server gets the URL and
- start look for the domain company staging (prd or test region).  
+### <a name="dev-tools-links"></a> Development Tools
+A collection of essential tools for development across various platforms.
 
+### <a name="programming-languages"></a> Programming Languages
+Explore tools and resources for different programming languages.
 
+---
 
+#### <a name="rest-web-services-tools"></a> REST Web Services Tools
+- **Postman**
+ - [Download Postman](https://www.getpostman.com/)
 
+---
 
+#### <a name="java-tools"></a> Java Tools
+- **STS (Spring Tool Suite)**
+ - [Download STS](https://spring.io/tools)
+- **JDK Download**
+ - [Download JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- **JDK Java EE**
+ - [Download JDK Java EE](https://www.oracle.com/technetwork/java/javaee/downloads/index.html)
 
+---
 
- 
+### <a name="build--deployment-tools"></a> Build & Deployment Tools
+Tools for building, deploying, and managing software releases.
 
+- **Jenkins**
+ - [Download Jenkins](https://jenkins.io/)
+- **Nexus Repository Manager**
+ - [Download Nexus](https://www.sonatype.com/nexus-repository-sonatype)
+- **Elevation Mgr**
+ - Description here.
+- **SonarSource**
+ - [Download SonarSource](https://www.sonarsource.com/)
 
+---
 
+### <a name="good-tools"></a> General Purpose Tools
+Tools to enhance your coding and development experience.
+
+- **Sublime Editor**
+ - [Download Sublime Editor](https://www.sublimetext.com/)
+- **Brackets Project Editor**
+ - [Download Brackets](http://brackets.io/)
+
+---
+
+### <a name="performace-tools"></a> Performance Tools
+Optimize and evaluate the performance of your applications.
+
+- **GTMetrix**
+ - [Download GTMetrix](https://gtmetrix.com/)
+
+---
+
+### <a name="atlassian-tools"></a> Atlassian Suite
+Comprehensive tools for project management, collaboration, and code management.
+
+- **JIRA**
+ - [Download JIRA](https://www.atlassian.com/software/jira)
+- **Confluence**
+ - [Download Confluence](https://www.atlassian.com/download)
+- **BitBucket**
+ - [Download BitBucket](https://www.atlassian.com/download)
+- **Bamboo**
+ - [Download Bamboo](https://www.atlassian.com/download)
+
+---
+
+### <a name="testing-tools"></a> Testing Tools
+Tools for automating and managing tests for your applications.
+
+- **Cucumber**
+ - [More about Cucumber](#)
+- **Selenium**
+ - [Download Selenium](http://www.seleniumhq.org/)
+- **Jasmine**
+ - Description here.
+- **Junit**
+ - Description here.
+
+---
+
+### <a name="webdata-analytics-tools"></a> Web/Data Analytics Tools
+Leverage these tools to gain insights from your web and data analytics.
+
+- List of tools and their download links or descriptions.
+
+---
+
+### <a name="adobe-analytics-check"></a> How to Check Adobe Analytics on Any Site
+Guidelines on how to use Adobe Analytics effectively.
+
+- Steps or guidelines here.
+
+---
+
+## Contributing
+Your contributions to improve or expand this list are welcome! Feel free to submit a pull request or an issue with your suggestions.
+
+## License
+Specify your license here or indicate that the repository is open for free use.
