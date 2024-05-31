@@ -16,7 +16,18 @@ Welcome to the **Developer Resources & Commands Repository**! This is a personal
 - [Version Control](#version-control)
     - [Learning Resources](#learning-resources-3)
     - [Commands](#commands-3)
-- [Other Useful Commands](#other-useful-commands)
+- [Docker](#docker)
+    - [Learning Resources](#learning-resources-4)
+    - [Commands](#commands-4)
+- [Machine learning](#machine-learning)
+    - [Learning Resources](#learning-resources-5)
+    - [Commands](#commands-5)
+- [Deep learning](#deep-learning)
+    - [Learning Resources](#learning-resources-6)
+    - [Commands](#commands-6)
+- [Natural langugage Processing](#nlp)
+    - [Learning Resources](#learning-resources-7)
+    - [Commands](#commands-7)
 
 ## 🌐 Web Development
 
@@ -26,6 +37,7 @@ Welcome to the **Developer Resources & Commands Repository**! This is a personal
 - **NextJs**: [Next.js Documentation](https://nextjs.org/)
 - **Shadcn-UI**: [Shadcn-ui Documentation](https://ui.shadcn.com/)
 - **CSS**: [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- **Backend**: [Clerk Documentation](https://clerk.com/)
 
 
 ### Commands
