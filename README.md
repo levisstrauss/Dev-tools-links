@@ -19,6 +19,15 @@ Welcome to the **Developer Resources & Commands Repository**! This is a personal
 - [Docker](#docker)
     - [Learning Resources](#learning-resources-4)
     - [Commands](#commands-4)
+- [Machine Learning](#machine-learning)
+    - [Learning Resources](#learning-resources-5)
+    - [Commands](#commands-5)
+- [Deep Learning](#deep-learning)
+    - [Learning Resources](#learning-resources-6)
+    - [Commands](#commands6)
+- [NLP](#natural-language-processing)
+    - [Learning Resources](#learning-resources-7)
+    - [Commands](#commands7)
 
 ## 🌐 Web Development
 
